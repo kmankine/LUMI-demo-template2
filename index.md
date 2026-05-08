@@ -10,6 +10,7 @@ This is the official template for creating clean, branded self-learning course s
 For a quick overview of the Markdown syntax elements refer to [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 
 This is an update.
+This is another update.
 
 ---
 
